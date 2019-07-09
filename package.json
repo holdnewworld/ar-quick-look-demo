@@ -1,0 +1,16 @@
+{
+  "name": "quicklookdemo",
+  "version": "1.0.0",
+  "description": "Apple AR Quick Look Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ar",
+    "quick",
+    "look"
+  ],
+  "author": "exutec",
+  "license": "MIT"
+}
